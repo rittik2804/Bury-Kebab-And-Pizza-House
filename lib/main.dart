@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           ),
         ],
         child: MaterialApp(
-            title: 'Bury kebab And Pizza House',
+            title: 'Bury Kebab And Pizza House',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               primarySwatch: Colors.blue,

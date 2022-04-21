@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.bury_kebab_and_pizza_house">
    <application
-        android:label="Bury kebab And Pizza House"
+        android:label="Bury Kebab And Pizza House"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
